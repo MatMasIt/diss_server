@@ -187,7 +187,7 @@ def diTH():
     connected = False
     while not connected:
         try:
-            client_id = '778926641333796885'  # Fake ID, put your real one here
+            client_id = '932430232049832423324'  # Fake ID, put your real one here
             RPC = Presence(client_id)  # Initialize the client class
             RPC.connect()  # Start the handshake loop
             connected = True
